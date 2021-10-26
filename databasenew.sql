@@ -526,7 +526,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `email_verified_at`, `password`, `remember_token`, `bio`, `website`, `twitter`, `instagram`, `tiktok`, `telegram`, `avatar`, `genders_id`, `birth`, `created_at`, `updated_at`) VALUES
-(1, 'admin', 'admin@admin.com', NULL, '$2y$10$Jp7nk.wtluJzNb8d.kZAsuNvLm7aI0ovQ9yK5hXATPNIVozrcym4e', 'G3q7yIAId66iUBF3Qv1BMZ6CeONpzLQ6BTFXGhuB9Pys7prLooKjkXEvib7W', '😎 Lorem Ipsum is simply dummy text of the printing and typesetting industry.', 'https://codecanyon.net/user/labnetwork', 'LabNetwork', 'LabNetwork', 'LabNetwork', 'LabNetwork', NULL, 1, '1992-02-18 00:00:00', '2021-01-31 08:38:36', '2021-02-18 06:59:29');
+(1, 'admin', 'admin@admin.com', NULL, '$2y$10$Jp7nk.wtluJzNb8d.kZAsuNvLm7aI0ovQ9yK5hXATPNIVozrcym4e', 'G3q7yIAId66iUBF3Qv1BMZ6CeONpzLQ6BTFXGhuB9Pys7prLooKjkXEvib7W', '😎 Lorem Ipsum is simply dummy text of the printing and typesetting industry.', 'link', 'NumberPal', 'NumberPal', 'NumberPal', 'NumberPal', NULL, 1, '1992-02-18 00:00:00', '2021-01-31 08:38:36', '2021-02-18 06:59:29');
 
 --
 -- Indici per le tabelle scaricate
